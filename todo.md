@@ -1,0 +1,1 @@
+- Revisit all programs and rewrite without printf (figure out how to print certain dtypes)
