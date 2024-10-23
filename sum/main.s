@@ -23,4 +23,6 @@ section   .data
   a:   dd    3
   b:   dd    4.5
   c:   dq    5.25
-  msg: db    "%f", 3, 0
+  msg: db    "%f", 10, 0
+
+
